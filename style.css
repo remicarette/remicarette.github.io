@@ -1,0 +1,12 @@
+.wip-wrapper {
+  height: calc(100vh - 56px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.wip {
+  margin-top: 16px;
+  width: 300px;
+}
